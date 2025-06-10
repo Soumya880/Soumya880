@@ -10,17 +10,20 @@
 ## 🔥 About Me
 
 * 🎓 B.Tech CSE with AI-ML specialization  
-* 🧠 Building AI/ML projects like `TempMailGen` and `VPN`  
-* 📊 Created YouTube Dashboard using `Streamlit` & `Pandas`  
+* 🧠 Building AI/ML projects like **TempMailGen** and **Airpointer**  
+* 📊 Created YouTube Dashboard using **Streamlit** & **Pandas**  
 * 🌱 Currently learning: DSA | Web Dev | Prompt Engineering
 
 ---
 
 ## 🚀 Projects
 
-* 🔗 [TempMail Generator Website](#)
-* 🧠 [Verbal-i: Real-time Note Making WebRTC App](#)
 * 📈 [YouTube Trending Dashboard](#)
+* 🔗 [TempMail Generator Website](#)
+* 🔴 [Bounce Ball Game](#)
+* 🚪[Escape The Maze Game](#)
+* 🐞 [Insect Catcher Game](#)
+
 
 ---
 
