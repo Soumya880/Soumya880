@@ -1,4 +1,4 @@
-# <h1 align="center"><b> Hi 👋, I'm Soumya Singh </b></h1>
+<h1 align="center"><b> Hi 👋, I'm Soumya Singh </b></h1>
 
 <h3 align="center"><b> B.Tech CSE (AI-ML) | Passionate about AI, Data, and Building Useful Products </b></h3>
 <p align="center">
