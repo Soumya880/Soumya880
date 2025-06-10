@@ -1,6 +1,6 @@
-                              # Hi 👋, I'm Soumya Singh
+ # Hi 👋, I'm Soumya Singh
 
-### B.Tech CSE (AI-ML) | Passionate about AI, Data, and Building Useful Products
+# B.Tech CSE (AI-ML) | Passionate about AI, Data, and Building Useful Products
 
 #### *Machine Learning & Full-Stack Development Enthusiast*
 
