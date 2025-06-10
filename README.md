@@ -1,15 +1,16 @@
-   # Hi 👋, I'm Soumya Singh
+<p align="center"><b> Hi 👋, I'm Soumya Singh </b></p>
 
-# B.Tech CSE (AI-ML)|Passionate about AI, Data and Building Useful Products
+----
+<p align="center"><b> B.Tech CSE (AI-ML) | Passionate about AI, Data, and Building Useful Products </b></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Passionate+about+AI;Web+Developer" alt="Typing SVG" />
+</p>
 
-#### *Machine Learning & Full-Stack Development Enthusiast*
-
----
-
+----
 ## 🔥 About Me
 
 * 🎓 B.Tech CSE with AI-ML specialization  
-* 🧠 Building AI/ML projects like `TempMailGen` and `Verbal-i`  
+* 🧠 Building AI/ML projects like `TempMailGen` and `VPN`  
 * 📊 Created YouTube Dashboard using `Streamlit` & `Pandas`  
 * 🌱 Currently learning: DSA | Web Dev | Prompt Engineering
 
@@ -26,7 +27,7 @@
 ## 🧰 Tech Stack
 
 ```text
-Languages:    Python | JavaScript | Java | 
+Languages:    Python | JavaScript | Java 
 Web Dev:      HTML | CSS | React | Node.js | Tailwind CSS
 ML Tools:     Pandas | Scikit-learn | OpenCV | Streamlit
 Other Tools:  Git | GitHub | VS Code | Google Colab
