@@ -1,6 +1,5 @@
-<h1 align="center"><b> Hi 👋, I'm Soumya Singh </b></h1>
+# <h1 align="center"><b> Hi 👋, I'm Soumya Singh </b></h1>
 
-----
 <h3 align="center"><b> B.Tech CSE (AI-ML) | Passionate about AI, Data, and Building Useful Products </b></h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Passionate+about+AI;Web+Developer" alt="Typing SVG" />
