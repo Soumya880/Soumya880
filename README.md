@@ -1,6 +1,6 @@
  <img src="https://readme-typing-svg.demolab.com font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Soumya+Singh" />
  
-# Hi 👋, I'm Soumya Singh
+   # Hi 👋, I'm Soumya Singh
 
 # B.Tech CSE (AI-ML) | Passionate about AI, Data, and Building Useful Products
 
