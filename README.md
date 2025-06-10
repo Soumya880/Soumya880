@@ -18,10 +18,10 @@
 
 ## 🚀 Projects
 
-* 📈 [YouTube Trending Dashboard](#)
-* 🔗 [TempMail Generator Website](#)
+* 📈 [YouTube Trending Dashboard](#coming-soon)
+* 🔗 [TempMail Generator Website](#coming-soon)
 * 🔴 [Bounce Ball Game](https://github.com/Soumya880/Bounce-Ball-game)
-* 🚪[Escape The Maze Game](https://github.com/Soumya880/Bounce-Ball-game)
+* 🚪[Escape The Maze Game](https://github.com/Soumya880/Escape-The-Maze-Game)
 * 🐞 [Insect Catcher Game](https://github.com/Soumya880/Insect-Catcher-Game)
 
 
