@@ -1,4 +1,4 @@
-# Hi 👋, I'm Soumya Singh
+                              # Hi 👋, I'm Soumya Singh
 
 ### B.Tech CSE (AI-ML) | Passionate about AI, Data, and Building Useful Products
 
@@ -8,18 +8,18 @@
 
 ## 🔥 About Me
 
-🎓 B.Tech CSE with AI-ML specialization  
-🧠 Building AI/ML projects like `TempMailGen` and `Verbal-i`  
-📊 Created YouTube Dashboard using `Streamlit` & `Pandas`  
-🌱 Currently learning: DSA | Web Dev | Prompt Engineering
+* 🎓 B.Tech CSE with AI-ML specialization  
+* 🧠 Building AI/ML projects like `TempMailGen` and `Verbal-i`  
+* 📊 Created YouTube Dashboard using `Streamlit` & `Pandas`  
+* 🌱 Currently learning: DSA | Web Dev | Prompt Engineering
 
 ---
 
 ## 🚀 Projects
 
-- 🔗 [TempMail Generator Website](#)
-- 🧠 [Verbal-i: Real-time Note Making WebRTC App](#)
-- 📈 [YouTube Trending Dashboard](#)
+* 🔗 [TempMail Generator Website](#)
+* 🧠 [Verbal-i: Real-time Note Making WebRTC App](#)
+* 📈 [YouTube Trending Dashboard](#)
 
 ---
 
