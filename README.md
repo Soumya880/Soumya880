@@ -57,7 +57,7 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Soumya880/Soumya880/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Soumya880/Soumya880/blob/output/snake.svg)
 
 
 
