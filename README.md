@@ -17,19 +17,46 @@
 
 ## 🚀 Projects
 
-* 📈 [YouTube Trending Dashboard](#coming-soon)
-* 🔗 [TempMail Generator Website](#coming-soon)
-* 🔴 [Bounce Ball Game](https://github.com/Soumya880/Bounce-Ball-game)
+* 📈[YouTube Trending Dashboard](#coming-soon)
+* 🔗[TempMail Generator Website](#coming-soon)
+* 🔴[Bounce Ball Game](https://github.com/Soumya880/Bounce-Ball-game)
 * 🚪[Escape The Maze Game](https://github.com/Soumya880/Escape-The-Maze-Game)
-* 🐞 [Insect Catcher Game](https://github.com/Soumya880/Insect-Catcher-Game)
+* 🐞[Insect Catcher Game](https://github.com/Soumya880/Insect-Catcher-Game)
 
 
 ---
 
-## 🧰 Tech Stack
+<h1 align="center"></h1>
 
-```text
-Languages:    Python | JavaScript | Java 
-Web Dev:      HTML | CSS | React | Node.js | Tailwind CSS
-ML Tools:     Pandas | Scikit-learn | OpenCV | Streamlit
-Other Tools:  Git | GitHub | VS Code | Google Colab
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="60" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Soumya880&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Soumya880&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
+
+
+![snake gif](https://github.com/Soumya880/Soumya880/blob/output/snake.svg)
+
