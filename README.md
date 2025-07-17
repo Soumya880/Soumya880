@@ -17,7 +17,7 @@
 
 ## 🚀 Projects
 
-* 📈[YouTube Trending Dashboard](#coming-soon)
+* 📈[YouTube Trending Dashboard](https://github.com/Soumya880/Youtube-Analytics-Dashboard)
 * 🔗[TempMail Generator Website](https://github.com/Soumya880/TempMail-Generator-Website)
 * 🔴[Bounce Ball Game](https://github.com/Soumya880/Bounce-Ball-game)
 * 🚪[Escape The Maze Game](https://github.com/Soumya880/Escape-The-Maze-Game)
